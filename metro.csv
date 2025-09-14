@@ -1,0 +1,129 @@
+route_id,route_name,direction,trip_id,stop_sequence,stop_id,stop_name,stop_lat,stop_lon,arrival_time,departure_time,headway_seconds
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,1,10_HLW_METRO_N,Helwan,29.848824,31.334252,6:00:00,6:00:15,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,2,10_AHL_METRO_N,Ain Helwan,29.862604,31.325026,6:02:15,6:02:40,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,3,10_UHL_METRO_N,Helwan University,29.8694521,31.3200045,6:04:40,6:05:05,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,4,14_HOF_METRO_N,Wadi Hof,29.879053,31.3134384,6:07:05,6:07:30,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,5,14_HHL_METRO_N,Hadayek Helwan,29.897192,31.30404,6:09:30,6:09:55,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,6,7_MAA_METRO_N,El-Maasara,29.9063622,31.2995338,6:14:20,6:14:45,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,7,27_TAS_METRO_N,Tora El-Asmant,29.9259651,31.2875497,6:16:45,6:17:10,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,8,26_KZK_METRO_N,Kozzika,29.9364531,31.2814236,6:19:10,6:19:35,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,9,28_TBA_METRO_N,Tora El-Balad,29.9467168,31.2728834,6:21:35,6:22:00,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,10,23_SMA_METRO_N,Sakanat El-Maadi,29.9533078,31.2629646,6:24:00,6:24:25,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,11,23_MAD_METRO_N,Maadi,29.960298,31.2577343,6:26:25,6:26:50,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,12,246_HMA_METRO_N,Hadayek El-Maadi,29.9697833,31.2508303,6:28:50,6:29:15,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,13,246_DAR_METRO_N,Dar El-Salam,29.9819859,31.2420434,6:31:15,6:31:40,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,14,31_ZAH_Metro_N,El-Zahraa',29.995539,31.2312341,6:33:40,6:34:05,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,15,34_MGR_METRO_N,Mar Girgis,30.0061683,31.2295818,6:36:05,6:36:30,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,16,32_MSH_Metro_N,El-Malek El-Saleh,30.0177162,31.2311751,6:38:30,6:38:55,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,17,47_ZEI_Metro_N,Al-Sayeda Zeinab,30.02924,31.235429,6:40:55,6:41:20,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,18,52_SZA_Metro_N,Saad Zaghloul,30.0356671,31.2378216,6:43:20,6:43:45,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,19,86_SAD_METRO_N,Sadat,30.043924,31.23566,6:45:45,6:46:10,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,20,87_NAS_METRO_N,Nasser,30.0534568,31.2386477,6:48:10,6:48:35,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,21,98_ORA_METRO_N,Orabi,30.0570274,31.2423062,6:50:35,6:51:00,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,22,100_SHO_METRO_N,Al-Shohadaa,30.0616395,31.246287,6:53:00,6:53:25,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,23,137_GHM_METRO_N,Ghamra,30.0689315,31.2646759,6:55:25,6:55:50,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,24,159_DMD_METRO_N,El-Demerdash,30.0771948,31.2778616,6:57:50,6:58:15,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,25,160_MSD_METRO_N,Manshiet El-Sadr,30.0819807,31.2875497,7:00:15,7:00:40,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,26,180_KQO_METRO_N,Kobri El-Qobba,30.087198,31.2941319,7:02:40,7:03:05,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,27,180_HQO_METRO_N,Hammamat El-Qobba,30.0911897,31.2990081,7:05:05,7:05:30,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,28,180_SQO_METRO_N,Saray El-Qobba,30.09772,31.3044691,7:07:30,7:07:55,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,29,178_DZT_METRO_N,Hadayeq El-Zaitoun,30.1059577,31.3103968,7:09:55,7:10:20,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,30,223_HZT_METRO_N,Helmeyet El-Zaitoun,30.1132481,31.3139963,7:12:20,7:12:45,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,31,223_MAT_METRO_N,El-Matareyya,30.1208952,31.3137335,7:14:45,7:15:10,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,32,226_AIN_METRO_N,Ain Shams,30.1310007,31.3191247,7:17:10,7:17:35,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,33,232_NKH_METRO_N,Ezbet El-Nakhl,30.1392217,31.3246232,7:19:35,7:20:00,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,34,251_MRG_METRO_N,El-Marg,30.1521131,31.3358134,7:22:00,7:22:25,132
+L1,Metro Line 1 (Helwan - El Marg),Northbound,T_L1_N,35,251_NMR_METRO_N,New El-Marg,30.163551,31.338335,7:22:00,7:22:25,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,1,251_NMR_METRO_S,New El-Marg,30.163551,31.338335,6:00:00,6:00:15,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,2,251_MRG_METRO_S,El-Marg,30.1521131,31.3358134,6:02:15,6:02:40,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,3,232_NKH_METRO_S,Ezbet El-Nakhl,30.1392217,31.3246232,6:04:40,6:05:05,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,4,226_AIN_METRO_S,Ain Shams,30.1310007,31.3191247,6:07:05,6:07:30,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,5,223_MAT_METRO_S,El-Matareyya,30.1208952,31.3137335,6:09:30,6:09:55,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,6,223_HZT_METRO_S,Helmeyet El-Zaitoun,30.1132481,31.3139963,6:11:55,6:12:20,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,7,178_DZT_METRO_S,Hadayeq El-Zaitoun,30.1059577,31.3103968,6:14:20,6:14:45,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,8,180_SQO_METRO_S,Saray El-Qobba,30.09772,31.3044691,6:16:45,6:17:10,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,9,180_HQO_METRO_S,Hammamat El-Qobba,30.0911897,31.2990081,6:19:10,6:19:35,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,10,180_KQO_METRO_S,Kobri El-Qobba,30.087198,31.2941319,6:21:35,6:22:00,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,11,160_MSD_METRO_S,Manshiet El-Sadr,30.0819807,31.2875497,6:24:00,6:24:25,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,12,159_DMD_METRO_S,El-Demerdash,30.0771948,31.2778616,6:26:25,6:26:50,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,13,137_GHM_METRO_S,Ghamra,30.0689315,31.2646759,6:28:50,6:29:15,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,14,100_SHO_METRO_S,Al-Shohadaa,30.0616395,31.246287,6:31:15,6:31:40,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,15,98_ORA_METRO_S,Orabi,30.0570274,31.2423062,6:33:40,6:34:05,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,16,87_NAS_METRO_S,Nasser,30.0534568,31.2386477,6:36:05,6:36:30,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,17,86_SAD_METRO_S,Sadat,30.043924,31.23566,6:38:30,6:38:55,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,18,52_SZA_Metro_S,Saad Zaghloul,30.0356671,31.2378216,6:40:55,6:41:20,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,19,47_ZEI_Metro_S,Al-Sayeda Zeinab,30.02924,31.235429,6:43:20,6:43:45,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,20,32_MSH_Metro_S,El-Malek El-Saleh,30.0177162,31.2311751,6:45:45,6:46:10,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,21,34_MGR_METRO_S,Mar Girgis,30.0061683,31.2295818,6:48:10,6:48:35,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,22,31_ZAH_Metro_S,El-Zahraa',29.995539,31.2312341,6:50:35,6:51:00,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,23,246_DAR_METRO_S,Dar El-Salam,29.9819859,31.2420434,6:53:00,6:53:25,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,24,246_HMA_METRO_S,Hadayek El-Maadi,29.9697833,31.2508303,6:55:25,6:55:50,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,25,23_MAD_METRO_S,Maadi,29.960298,31.2577343,6:57:50,6:58:15,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,26,23_SMA_METRO_S,Sakanat El-Maadi,29.9533078,31.2629646,7:00:15,7:00:40,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,27,28_TBA_METRO_S,Tora El-Balad,29.9467168,31.2728834,7:02:40,7:03:05,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,28,26_KZK_METRO_S,Kozzika,29.9364531,31.2814236,7:05:05,7:05:30,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,29,27_TAS_METRO_S,Tora El-Asmant,29.9259651,31.2875497,7:07:30,7:07:55,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,30,7_MAA_METRO_S,El-Maasara,29.9063622,31.2995338,7:09:55,7:10:20,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,31,14_HHL_METRO_S,Hadayek Helwan,29.897192,31.30404,7:12:20,7:12:45,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,32,14_HOF_METRO_S,Wadi Hof,29.879053,31.3134384,7:14:45,7:15:10,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,33,10_UHL_METRO_S,Helwan University,29.8694521,31.3200045,7:17:10,7:17:35,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,34,10_AHL_METRO_S,Ain Helwan - Helwan,29.862604,31.325026,7:19:35,7:20:00,132
+L1,Metro Line 1 (Helwan - El Marg),Southbound,T_L1_S,35,10_HLW_METRO_S,Helwan,29.848824,31.334252,7:22:00,7:22:25,132
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,1,263_MON_METRO_N,El-Mounib,29.9810333,31.2123084,6:00:00,6:00:15,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,2,457_MEK_METRO_N,Sakiat Mekki,29.9955669,31.2084889,6:02:15,6:02:40,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,3,457_OMS_METRO_N,Omm El-Misryeen,30.0059918,31.2081348,6:04:40,6:05:05,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,4,457_GIZ_METRO_N,El-Giza,30.0106557,31.2070513,6:07:05,6:07:30,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,5,369_FAS_METRO_N,Faisal,30.0174932,31.2037468,6:09:30,6:09:55,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,6,370_CUN_METRO_N,Cairo University,30.026151,31.2008715,6:11:55,6:12:20,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,7,361_BHO_METRO_N,Bohooth,30.03584,31.200255,6:14:20,6:14:45,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,8,361_DOK_METRO_N,Dokki,30.0384665,31.2122431,6:16:45,6:17:10,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,9,237_OPR_METRO_N,Opera,30.0419317,31.2249899,6:19:10,6:19:35,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,10,86_SAD_METRO_N2,Sadat,30.043924,31.23566,6:21:35,6:22:00,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,11,69_NAG_METRO_N,Mohamed Naguib,30.0453402,31.2441516,6:24:00,6:24:25,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,12,81_ATT_METRO_N,Attaba,30.0523517,31.2467963,6:26:25,6:26:50,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,13,100_SHO_METRO_N2,Al-Shohadaa,30.06237419838,31.2464228093034,6:28:50,6:29:15,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,14,144_MSA_METRO_N,Masarra,30.0708952,31.2451011,6:31:15,6:31:40,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,15,153_RFG_METRO_N,Rod El Farag,30.0805881,31.2454015,6:33:40,6:34:05,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,16,157_STR_METRO_N,St. Teresa,30.0879569,31.2454927,6:36:05,6:36:30,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,17,157_KHL_METRO_N,Khalafawy,30.0978453,31.2449992,6:38:30,6:38:55,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,18,158_MZL_METRO_N,Mezallat,30.1040735,31.2455678,6:40:55,6:41:20,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,19,324_ZER_METRO_N,Kolleyyet El-Zeraa,30.1136611,31.2487543,6:43:20,6:43:45,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Northbound,T_L2_N,20,326_SHB_METRO_N,Shubra El-Kheima,30.1225145,31.244688,6:45:45,6:46:10,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,1,326_SHB_METRO_S,Shubra El-Kheima,30.1225145,31.244688,6:00:00,6:00:15,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,2,324_ZER_METRO_S,Kolleyyet El-Zeraa,30.1136611,31.2487543,6:02:15,6:02:40,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,3,158_MZL_METRO_S,Mezallat,30.1040735,31.2455678,6:04:40,6:05:05,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,4,157_KHL_METRO_S,Khalafawy,30.0978453,31.2449992,6:07:05,6:07:30,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,5,157_STR_METRO_S,St. Teresa,30.0879569,31.2454927,6:09:30,6:09:55,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,6,153_RFG_METRO_S,Rod El Farag,30.0805881,31.2454015,6:11:55,6:12:20,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,7,144_MSA_METRO_S,Masarra,30.0708952,31.2451011,6:14:20,6:14:45,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,8,100_SHO_METRO_S2,Al-Shohadaa,30.06237419838,31.2464228093034,6:16:45,6:17:10,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,9,81_ATT_METRO_S,Attaba,30.0523517,31.2467963,6:19:10,6:19:35,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,10,69_NAG_METRO_S,Mohamed Naguib,30.0453402,31.2441516,6:21:35,6:22:00,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,11,86_SAD_METRO_S2,Sadat,30.043924,31.23566,6:24:00,6:24:25,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,12,237_OPR_METRO_S,Opera,30.0419317,31.2249899,6:26:25,6:26:50,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,13,361_DOK_METRO_S,Dokki,30.0384665,31.2122431,6:28:50,6:29:15,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,14,361_BHO_METRO_S,Bohooth,30.03584,31.200255,6:31:15,6:31:40,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,15,370_CUN_METRO_S,Cairo University,30.026151,31.2008715,6:33:40,6:34:05,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,16,369_FAS_METRO_S,Faisal,30.0174932,31.2037468,6:36:05,6:36:30,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,17,457_GIZ_METRO_S,El-Giza,30.0106557,31.2070513,6:38:30,6:38:55,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,18,457_OMS_METRO_S,Omm El-Misryeen,30.0059918,31.2081348,6:40:55,6:41:20,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,19,457_MEK_METRO_S,Sakiat Mekki,29.9955669,31.2084889,6:43:20,6:43:45,104
+L2,Metro Line 2 (Shobra El Kheima - El Mounib),Southbound,T_L2_S,20,263_MON_METRO_S,El-Mounib,29.9810333,31.2123084,6:45:45,6:46:10,104
+L3,Metro Line 3 (Attaba - Al Ahram),Eastbound,T_L3_E,1,81_ATT_METRO_E,Attaba,30.0531353784271,31.2469660616293,6:00:00,6:00:15,162
+L3,Metro Line 3 (Attaba - Al Ahram),Eastbound,T_L3_E,2,77_BSH_METRO_N,Bab El-Shaaria,30.0539026,31.2560177,6:02:17,6:02:49,162
+L3,Metro Line 3 (Attaba - Al Ahram),Eastbound,T_L3_E,3,118_GES_METRO_N,El-Geish,30.061716,31.26696,6:04:28,6:04:55,162
+L3,Metro Line 3 (Attaba - Al Ahram),Eastbound,T_L3_E,4,163_ABB_METRO_N,Abdou Pasha,30.064673,31.274853,6:06:09,6:06:36,162
+L3,Metro Line 3 (Attaba - Al Ahram),Eastbound,T_L3_E,5,161_ABB_METRO_N,Abbassiya,30.0697625,31.2807798,6:08:03,6:08:40,162
+L3,Metro Line 3 (Attaba - Al Ahram),Eastbound,T_L3_E,6,208_FZO_METRO_N,Fair Zone,30.072963,31.30063,6:11:06,6:11:30,162
+L3,Metro Line 3 (Attaba - Al Ahram),Eastbound,T_L3_E,7,190_STA_METRO_N,Stadium,30.072742,31.3173380000001,6:13:49,6:14:12,162
+L3,Metro Line 3 (Attaba - Al Ahram),Eastbound,T_L3_E,8,192_KBN_METRO_N,Koleyet El-Banat,30.084163,31.329012,6:16:02,6:16:25,162
+L3,Metro Line 3 (Attaba - Al Ahram),Eastbound,T_L3_E,9,214_AHR_METRO_N,Al-Ahram,30.09183,31.3263449999999,6:18:55,6:18:55,162
+L3,Metro Line 3 (Attaba - Al Ahram),Westbound,T_L3_W,1,214_AHR_METRO_S,Al-Ahram,30.09183,31.3263449999999,6:00:00,6:00:15,162
+L3,Metro Line 3 (Attaba - Al Ahram),Westbound,T_L3_W,2,192_KBN_METRO_S,Koleyet El-Banat,30.084163,31.329012,6:02:45,6:03:05,162
+L3,Metro Line 3 (Attaba - Al Ahram),Westbound,T_L3_W,3,190_STA_METRO_S,Stadium,30.072742,31.3173380000001,6:04:55,6:05:18,162
+L3,Metro Line 3 (Attaba - Al Ahram),Westbound,T_L3_W,4,208_FZO_METRO_S,Fair Zone,30.072963,31.30063,6:07:37,6:08:01,162
+L3,Metro Line 3 (Attaba - Al Ahram),Westbound,T_L3_W,5,161_ABB_METRO_S,Abbassiya,30.0697625,31.2807798,6:10:27,6:11:04,162
+L3,Metro Line 3 (Attaba - Al Ahram),Westbound,T_L3_W,6,163_ABB_METRO_S,Abdou Pasha,30.064673,31.274853,6:12:31,6:12:58,162
+L3,Metro Line 3 (Attaba - Al Ahram),Westbound,T_L3_W,7,118_GES_METRO_S,El-Geish,30.061716,31.26696,6:14:12,6:14:39,162
+L3,Metro Line 3 (Attaba - Al Ahram),Westbound,T_L3_W,8,77_BSH_METRO_S,Bab El-Shaaria,30.0539026,31.2560177,6:16:18,6:16:50,162
+L3,Metro Line 3 (Attaba - Al Ahram),Westbound,T_L3_W,9,81_ATT_METRO_W,Attaba,30.0531353776005,31.2469660616293,6:18:52,6:19:12,162
