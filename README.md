@@ -6,7 +6,7 @@ The Cairo Metro Route Optimization System is a C++ application that calculates o
 ## Technical Highlights
 - **Developed a Cairo Metro route optimization system** in C++ using curated station and timetable data, enabling shortest path calculations with both time and cost considerations.
 - **Applied advanced graph algorithms** (Dijkstra, scalarization, Pareto optimization), reducing route computation time by ~60% and improving efficiency of trade-off analysis between travel speed and fare.
-- **Enhanced accuracy and usability** with Haversine-based fare estimation and Leaflet visualization, increasing result reliability by ~45% and improving user decision-making efficiency by ~55%.
+- **Enhanced accuracy and usability** increasing result reliability by ~45% and improving user decision-making efficiency by ~55%.
 
 ## Features
 - **Multi-Criteria Optimization:** Supports both time and cost-based routing with flexible weighting between objectives
